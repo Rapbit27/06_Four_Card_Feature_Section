@@ -26,5 +26,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source-code](https://your-solution-url.com)
-- Live Site URL: [Live-preview](https://your-live-site-url.com)
+- Solution URL: [Source-code](https://github.com/Rapbit27/06_Four_Card_Feature_Section)
+- Live Site URL: [Live-preview](https://rapbit27.github.io/06_Four_Card_Feature_Section/)
